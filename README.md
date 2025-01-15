@@ -1,3 +1,6 @@
+
+[![SonarQube Cloud](https://sonarcloud.io/images/project_badges/sonarcloud-light.svg)](https://sonarcloud.io/summary/new_code?id=furkanyy_incubyte-assignment)
+
 # Magento Web Testing Project
 
 This project demonstrates automated testing of the Magento e-commerce platform's authentication flows using Selenium WebDriver with Java, implementing both BDD (Behavior-Driven Development) and POM (Page Object Model) patterns.
